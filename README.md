@@ -1,6 +1,19 @@
 # Hog Game 
 
-Hog is a dice game with simple rules: two players alternate turns and accumulate points, trying to reach a score of 100. On each turn, a player has two choices:
+Hog is a dice game with simple rules: two players alternate turns and accumulate points, trying to reach a score of 100. 
+
+![Project Banner](https://github.com/RyanLilleyman/Hog/blob/main/banner.gif)
+
+## Table of Contents
+1. [Game Rules](#game-rules)
+2. [Prerequisites](#prerequisites)
+3. [Running Hog](#running-hog)
+4. [Features](#features)
+5. [Contact](#contact)
+
+
+## Game Rules
+On each turn, a player has two choices:
 
 - Roll a six-sided die as many times as they want, adding the result of the rolls to their score. However, if they roll a 1, it ends their turn and their score for the turn is only 1 point, as per the **"Sow Sad"** rule.
 - Choose to roll zero dice to score 0 points for the turn and add 1 to their score.
@@ -39,6 +52,4 @@ We hope you enjoy playing Hog! Please share any feedback, issues, or suggestions
 
 Please reach out if you have any questions or need further instructions.
 
-## License
 
-This project is released under [Insert License Here].
